@@ -118,7 +118,7 @@ function Start(){
     let riddle = Riddles[CurrentRiddle];    
     document.getElementById("Riddle").innerHTML = riddle.name;
     document.getElementById("answer").innerHTML = "";
-    timer = setTimeout(ShowAnswer, 30000); 
+    timer = setTimeout(ShowAnswer, 10000); 
 }
 
 
