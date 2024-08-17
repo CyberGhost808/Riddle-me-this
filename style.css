@@ -58,9 +58,6 @@ main .Option{
     margin: 20px 0;
     cursor: pointer;
 }
-.Container h1{
-    font-family: cursive;
-}
 .Container button{
     padding: 5px;
     width: 100%;
